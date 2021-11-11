@@ -15,7 +15,7 @@ import vue.ButtonCase;
 
 /**
  *
- * @author Olivier
+ * @author Benoit
  */
 public class PlaneteControler implements ActionListener {
     

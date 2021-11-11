@@ -12,7 +12,7 @@ import vue.GameFrame;
 
 /**
  *
- * @author Olivier
+ * @author Benoit
  */
 public class AttackControler implements ActionListener {
     private Plateau game;

@@ -9,7 +9,7 @@ package exception;
 
 /**
  *
- * @author Olivier
+ * @author Benoit
  */
 public class CreationDeCoinvoieImpossible extends Exception {
     

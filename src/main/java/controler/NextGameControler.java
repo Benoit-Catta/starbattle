@@ -12,7 +12,7 @@ import vue.GameFrame;
 
 /**
  *
- * @author Olivier
+ * @author Benoit
  */
 public class NextGameControler implements ActionListener {
     

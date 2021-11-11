@@ -12,7 +12,7 @@ import vue.EntrerGame;
 
 /**
  *
- * @author Olivier
+ * @author Benoit
  */
 public class NextControler implements ActionListener {
     

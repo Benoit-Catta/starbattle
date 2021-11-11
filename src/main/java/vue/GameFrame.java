@@ -28,7 +28,7 @@ import modele.Joueur;
 
 /**
  *
- * @author Olivier
+ * @author Benoit
  */
 public class GameFrame extends JFrame{
     
